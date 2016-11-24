@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>添加地址</title>
+</head>
+<body onload="">
+	#foreach($s in $data)
+	数据是：$s
+	#end
+</body>
+</html>
